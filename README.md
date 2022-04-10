@@ -3,7 +3,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Engenharia de Software** na <a href="https://www.alura.com.br/">ALURA</a>.
+- 🎓 &nbsp; Estudando **Front-end & Back-end** na <a href="https://www.alura.com.br/">ALURA</a>.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
